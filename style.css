@@ -3,3 +3,50 @@ body {
   height: 100%;
   margin: 0;
 }
+
+/* top header*/
+h1 {
+  color: black;
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+nav a {
+  padding: 0px 10px 0px 10px;
+  background-color: grey;
+}
+  
+  
+/*body section*/
+
+ img{
+   display: block;
+   margin: 0 auto;
+ }
+
+figcaption{
+  text-align: center;
+} 
+
+#featured-property p{
+  text-align: center;
+  width: 800px;
+}
+ /*#featured-property{
+   text-align: center;
+ }*/
+ 
+ /* footer*/
+ 
+ #details {
+   display: block;
+ }
+ 
+ div {
+   float: left;
+   background-color: red;
+   text-align: center;
+   width: 25%;
+ }
